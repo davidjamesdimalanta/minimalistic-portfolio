@@ -7,7 +7,7 @@ export default [
     },
     {
         title: 'Product Website',
-        imgUrl: '/assets/nu2canadapreview.png',
+        imgUrl: '/assets/nu2canada preview.png',
         stack: ['TailwindCSS','React'],
         link: 'https://davidjamesdimalanta-product-website.netlify.app',
     },
