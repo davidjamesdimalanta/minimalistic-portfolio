@@ -8,7 +8,13 @@ export default [
     {
         title: 'Product Website',
         imgUrl: '/assets/nu2canada preview.png',
-        stack: ['TailwindCSS','React'],
+        stack: ['TailwindCSS','React', 'React-Router-DOM'],
         link: 'https://davidjamesdimalanta-product-website.netlify.app',
+    },
+    {
+        title: 'CRUD Journal App',
+        imgUrl: '/assets/getitoffyourchest preview.png',
+        stack: ['TailwindCSS','React','CRUD','React-Router-DOM'],
+        link: 'https://getitoffyourchest.netlify.app/',
     },
 ]
